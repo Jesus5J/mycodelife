@@ -1,2 +1,2 @@
 # mycodelife
-record my code life
+不积跬步无以至千里
